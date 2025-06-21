@@ -1,2 +1,2 @@
 # Netflix-data-analysis
-my first project on datacamp
+Explore netflix data and extract useful info
